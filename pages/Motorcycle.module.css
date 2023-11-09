@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image {
+    width: 50%;
+    display: block;
+    margin: 50px auto;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+    color: #333; /* Change the color to your preference */
+  }
+  
+  .year {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+    color: #555; /* Change the color to your preference */
+  }
+  
+  .description {
+    font-size: 16px;
+    margin: 10px 0;
+    text-align: center;
+    color: #666; /* Change the color to your preference */
+  }
+  
+  .price {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+    color: #171010; /* Change the color to your preference */
+  }
+  
+  .button {
+    padding: 12px 20px;
+    background-color: #4cbb17;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .buttonRemove {
+    padding: 12px 20px;
+    background-color: #ed2939;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
